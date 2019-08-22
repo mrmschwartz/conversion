@@ -1,0 +1,10 @@
+{
+  "name": "convert-units",
+  "version": "2.3.5",
+  "description": "Convert between quantities in different units",
+  "main": "lib",
+  "dependencies": {
+    "lodash.keys": "2.3.x",
+    "lodash.foreach": "2.3.x"
+  },
+}
